@@ -101,3 +101,6 @@ nav ul li a:hover {
     position: absolute;
     width: 100%;
 }
+.format {
+    border: 2px solid blue;
+}
